@@ -21,10 +21,10 @@ npm install gitbook-cli -g
 可通过地址[https://git-scm.com/downloads](https://git-scm.com/downloads)下载，在命令行下运行
 
 ```
-git config --golbal user.email "you@example.com"
+git config --global user.email "you@example.com"
 ```
 
-4、安装 `gh-pages` 工具
+5、安装 `gh-pages` 工具
 
 ```
 npm install -g gh-pages

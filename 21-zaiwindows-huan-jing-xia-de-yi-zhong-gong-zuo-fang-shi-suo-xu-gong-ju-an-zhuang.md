@@ -8,11 +8,11 @@
 
 3、需要时，可以通过push或sync操作将本地所写的书籍源码，同步到GitHub相应仓库的Master分支。（需要输入GitHub的账号和密码）
 
-4、多人协作时，和GitHub配合，用pull，push，sync等命令，完成书籍的编辑工作。
+4、多人协作时，和GitHub配合，用pull，push，sync等命令，完成书籍的协同编辑工作。
 
 5、在书籍所在目录下，在中，利用 gitbook  build 命令生成书籍的html格式，存放路径在所在目录下的子目录\_book。
 
 6、继续使用 gh-pages -d _book _命令将生成的\_book目录下的内容push到对应仓库的gh-pages分支下。
 
-7、现在已经可以访问了。访问路径为https://&lt;username&gt;.github.io/&lt;project&gt;。
+7、现在已经可以访问了。访问路径为[https://&lt;username&gt;.github.io/&lt;project&gt;。](https://<username>.github.io/<project>。)
 

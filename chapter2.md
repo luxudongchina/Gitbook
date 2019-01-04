@@ -10,7 +10,7 @@
 
 4、多人协作时，和GitHub配合，用pull，push，sync等命令，完成书籍的协同编辑工作。
 
-5、在书籍所在目录下，在中，利用下述命令生成书籍的 html 格式，存放路径为所在目录下的子目录\_book。
+5、在书籍所在目录下，利用下述命令生成书籍的 html 格式，存放路径为所在目录下的子目录\_book。
 
 ```
 gitbook build
@@ -22,5 +22,5 @@ gitbook build
 gh-pages -d _book
 ```
 
-7、现在已经可以访问了。访问路径为 https://&lt;username&gt;.github.io/&lt;project&gt;。
+7、现在已经可以访问了。访问路径为 [https://&lt;username&gt;.github.io/&lt;project&gt;。](https://<username>.github.io/<project>。)
 

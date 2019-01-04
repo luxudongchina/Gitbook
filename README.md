@@ -1,6 +1,6 @@
 # Gitbook 本地写书并部署至 GitHub Pages
 
-GitBook 是一个基于 Node.js 的命令行工具，可使用 Markdown 来制作精美的电子书。但目前Gitbook改版之后，资料文档使用的是 Digital Ocean 的主机，而 DO 家的很多地址被墙了，导致往往无法访问。因此在线使用Gitbook写书就变得不方便了，这篇文档介绍利用Gitbook本地写书，并发布到Github Pages上，这样不但能共享，而且还能进行多人协作。
+      GitBook 是一个基于 Node.js 的命令行工具，可使用 Markdown 来制作精美的电子书。但目前Gitbook改版之后，资料文档使用的是 Digital Ocean 的主机，而 DO 家的很多地址被墙了，导致往往无法访问。因此在线使用Gitbook写书就变得不方便了，这篇文档介绍利用Gitbook本地写书，并发布到Github Pages上，这样不但能共享，而且还能进行多人协作。
 
 GitHub Pages 简单说就是一个可以托管静态网站的 Git 项目，支持使用 markdown 语法以及 Jekyll 来构建，或者直接使用已经生成好的静态站点。
 

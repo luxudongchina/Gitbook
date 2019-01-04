@@ -22,5 +22,5 @@ gitbook build
 gh-pages -d _book
 ```
 
-7、现在已经可以访问了。访问路径为https://&lt;username&gt;.github.io/&lt;project&gt;。
+7、现在已经可以访问了。访问路径为 https://&lt;username&gt;.github.io/&lt;project&gt;。
 

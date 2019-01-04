@@ -8,17 +8,14 @@ GitHub Pages 简单说就是一个可以托管静态网站的 Git 项目，支�
 
 &lt;username&gt;.github.io/&lt;project&gt;
 
-例如：这本书可以通过地址：https://luxudongchina.github.io/gitbook\)来访问。
-
-
+例如：这本书可以通过地址：[https://luxudongchina.github.io/gitbook](https://luxudongchina.github.io/gitbook) 来访问。
 
 为此，我们需要做一些准备。需要安装：
 
 * GitBook
 * Gitbook Editor
 * Git
-
----
+* gh-pages
 
 
 

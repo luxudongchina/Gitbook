@@ -10,5 +10,5 @@ GitHub Pages 简单说就是一个可以托管静态网站的 Git 项目，支�
 
 例如：这本书可以通过地址：
 
-[https://luxudongchina.github.io/gitbook](https://luxudongchina.github.io/gitbook) 来访问。
+[https://luxudongchina.github.io/Gitbook/ ](https://luxudongchina.github.io/Gitbook/)来访问。
 

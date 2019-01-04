@@ -16,13 +16,19 @@ npm install gitbook-cli -g
 
 下载[Gitbook Editor](https://legacy.gitbook.com/editor)安装，安装完打开客户端后，提示登录Gitbook账号，不需要登录。
 
+4、安装 Git
+
+可通过地址[https://git-scm.com/downloads](https://git-scm.com/downloads)下载，在命令行下运行
+
+```
+git config --golbal user.email "you@example.com"
+```
+
 4、安装 `gh-pages` 工具
 
 ```
 npm install -g gh-pages
 ```
 
-5、安装 Git（可选，提供命令行方式）
 
-可通过地址[https://git-scm.com/downloads](https://git-scm.com/downloads)下载。
 

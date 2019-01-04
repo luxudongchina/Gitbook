@@ -4,7 +4,7 @@ GitBook 是一个基于 Node.js 的命令行工具，可使用 Markdown 来制�
 
 GitHub Pages 简单说就是一个可以托管静态网站的 Git 项目，支持使用 markdown 语法以及 Jekyll 来构建，或者直接使用已经生成好的静态站点。
 
-由于 Gitbook 书籍可以通过 Gitbook 本地构建出 html  格式，所以可以直接将构建好的书籍直接放到 GitHub Pages 中托管，之后，可以通过如下地址访问书籍：
+由于 Gitbook 书籍可以通过 Gitbook 本地构建出 html  格式，所以可以直接将构建好的书籍直接放到 GitHub Pages 中托管，之后，可以通过如下地址访问书籍。
 
 &lt;username&gt;.github.io/&lt;project&gt;
 

@@ -16,5 +16,11 @@ npm install gitbook-cli -g
 
 下载[Gitbook Editor](https://legacy.gitbook.com/editor)安装，安装完打开客户端后，提示登录Gitbook账号，不需要登录。
 
+4、安装 `gh-pages` 工具
+
+```
+     npm install g gh-pages
+```
+
 
 

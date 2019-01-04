@@ -14,5 +14,5 @@
 
 6、继续使用 gh-pages -d _book _命令将生成的\_book目录下的内容push到对应仓库的gh-pages分支下。
 
-7、现在已经可以访问了。
+7、现在已经可以访问了。访问路径为https://&lt;username&gt;.github.io/&lt;project&gt;。
 

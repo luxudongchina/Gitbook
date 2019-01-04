@@ -12,15 +12,9 @@
 npm install gitbook-cli -g
 ```
 
-安装完成之后，你可以使用下面的命令来检验是否安装成功
-
-```
-gitbook -V
-```
-
-如果你看到了版本信息，则表示你已经安装成功了。
-
 3、Gitbook Editor安装
+
+下载[Gitbook Editor](https://legacy.gitbook.com/editor)安装，安装完打开客户端后，提示登录Gitbook账号，不需要登录。
 
 
 

@@ -12,5 +12,7 @@
 
 5、在书籍所在目录下，在中，利用 gitbook  build 命令生成书籍的html格式，存放路径在所在目录下的子目录\_book。
 
+6、继续使用 gh-pages -d _book _命令将生成的\_book目录下的内容push到对应仓库的gh-pages分支下。
 
+7、现在已经可以访问了。
 

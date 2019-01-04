@@ -19,8 +19,8 @@ gitbook build
 6、继续使用下面的_ _命令将生成的\_book目录下内容push到对应仓库的gh-pages分支下。
 
 ```
-gh-pages  -d  _book
+gh-pages -d _book
 ```
 
-7、现在已经可以访问了。访问路径为[https://&lt;username&gt;.github.io/&lt;project&gt;。](https://<username>.github.io/<project>。)
+7、现在已经可以访问了。访问路径为https://&lt;username&gt;.github.io/&lt;project&gt;。
 

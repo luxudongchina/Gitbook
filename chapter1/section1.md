@@ -19,7 +19,7 @@ npm install gitbook-cli -g
 4、安装 `gh-pages` 工具
 
 ```
-     npm install g gh-pages
+npm install g gh-pages
 ```
 
 
